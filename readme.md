@@ -16,8 +16,12 @@ This is an example repository for the Metrists CLI. Visit the [Metrists CLI](htt
 ```
 en/
 ├─ default/
+│  ├─ footer/
+│  │  ├─ copyright.json/
 │  ├─ welcome.json
 fr/
 ├─ default/
+│  ├─ footer/
+│  │  ├─ copyright.json/
 │  ├─ welcome.json
 ```
